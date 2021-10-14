@@ -1,0 +1,140 @@
+{
+    "en-US-AriaNeural": {
+        "style": [
+            "newscast-formal",
+            "newscast-casual",
+            "narration-professional",
+            "customerservice",
+            "chat",
+            "cheerful",
+            "empathetic" 
+        ]
+    },
+    "en-US-JennyNeural": {
+        "style": [
+            "customerservice",
+            "chat", 	
+            "assistant", 
+            "newscast"
+        ]
+    },
+    "en-US-GuyNeural": {
+        "style": [
+            "newscast"
+        ]
+    },
+    "en-US-SaraNeural": {
+        "style": [
+            "cheerful",
+	        "sad", 	
+	        "angry"
+        ]
+    },
+    "ja-JP-NanamiNeural": { 	
+        "style": [
+            "cheerful", 	
+            "chat",
+            "customerservice"
+        ]
+    },
+    "pt-BR-FranciscaNeural": {
+        "style": [
+            "calm"
+        ]
+    },
+    "zh-CN-XiaoxiaoNeural": {
+        "style": [
+            "newscast",
+            "customerservice",
+            "assistant",
+            "chat",
+            "calm",
+            "cheerful",
+            "sad",
+            "angry",
+            "fearful",
+            "disgruntled",
+            "serious",
+            "affectionate",
+            "gentle",
+            "lyrical"
+        ]
+    },
+    "zh-CN-YunyangNeural": {
+        "style": [
+            "customerservice"
+        ]
+    },
+    "zh-CN-YunyeNeural": {
+        "style": [
+            "calm",
+            "cheerful",
+            "sad",
+            "angry",
+            "fearful",
+            "disgruntled",
+            "serious"
+        ]
+    },
+    "zh-CN-YunxiNeural": {
+        "style": [
+            "assistant", 	
+	        "cheerful", 	
+	        "sad", 
+	        "angry", 	
+	        "fearful", 	
+	        "disgruntled", 	
+	        "serious", 	
+	        "depressed", 	
+	        "embarrassed"
+        ]
+    },
+    "zh-CN-XiaohanNeural": {
+        "style": [
+            "cheerful",
+            "sad",
+            "angry",
+            "fearful",
+            "disgruntled",
+            "serious",
+            "embarrassed",
+            "affectionate"
+        ]
+    },
+    "zh-CN-XiaomoNeural": {
+        "style": [
+            "calm",
+            "cheerful",
+            "angry",
+            "fearful",
+            "disgruntled",
+            "serious",
+            "depressed",
+            "gentle"
+        ]
+    },
+    "zh-CN-XiaoxuanNeural": {
+        "style": [
+            "calm",
+            "cheerful",
+            "angry",
+            "fearful",
+            "disgruntled",
+            "serious",
+            "depressed",
+            "gentle"
+        ]
+    },
+    "zh-CN-XiaoruiNeural": {
+        "style": [
+            "sad",
+            "angry",
+            "fearful"
+        ]
+    },
+    "zh-CN-XiaoshuangNeural": {
+        "style": [
+            "chat"
+        ]
+    }
+}
